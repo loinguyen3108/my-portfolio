@@ -1,0 +1,72 @@
+{
+    "data":[
+        {
+            "id": "599148282",
+            "name": "Wide World Importers Spark",
+            "createdAt": "2023-02-08T14:55:19Z",
+            "url": "https://github.com/loinguyen3108/Wide-World-Importers-Spark",
+            "description": "🔥 The project use WWI data use PySpark to ETL from source system to Hive. Then, we will analyze with Superset.",
+            "isFork": false,
+            "languages": [
+              {
+                "name": "Python",
+                "iconifyClass": "logos:python"
+              },
+              {
+                "name": "Shell",
+                "iconifyClass": "tabler:brand-powershell"
+              }
+            ]
+        },
+        {
+          "id": "585835467",
+          "name": "DVD Rental ETL",
+          "createdAt": "2023-01-06T07:52:09Z",
+          "url": "https://github.com/loinguyen3108/dvdrental-etl",
+          "description": "🔥 This is example project about ETL with spark, hadoop, hive.",
+          "isFork": false,
+          "languages": [
+            {
+              "name": "Python",
+              "iconifyClass": "logos:python"
+            },
+            {
+              "name": "Shell",
+              "iconifyClass": "tabler:brand-powershell"
+            }
+          ]
+        },
+        {
+          "id": "588438679",
+          "name": "Fifa ETL & Analyze",
+          "createdAt": "2023-01-13T05:42:28Z",
+          "url": "https://github.com/loinguyen3108/fifa-etl-analyze",
+          "description": "🔥 This is project ETL data from csv files to hive. Then, this data will be analyze with superset",
+          "isFork": false,
+          "languages": [
+            {
+              "name": "Python",
+              "iconifyClass": "logos:python"
+            },
+            {
+              "name": "Shell",
+              "iconifyClass": "tabler:brand-powershell"
+            }
+          ]
+        },
+        {
+          "id": "587977431",
+          "name": "Bigdata Stack",
+          "createdAt": "2023-01-12T02:56:37Z",
+          "url": "https://github.com/loinguyen3108/bigdata-stack",
+          "description": "Big Data Stack Docker.",
+          "isFork": false,
+          "languages": [
+            {
+              "name": "Shell",
+              "iconifyClass": "tabler:brand-powershell"
+            }
+          ]
+        }
+    ]
+}
