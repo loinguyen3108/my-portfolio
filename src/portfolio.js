@@ -8,8 +8,7 @@ const settings = {
 //SEO Related settings
 const seo = {
   title: "Loi Nguyen Portfolio",
-  description:
-    "Big Data, Big Think",
+  description: "Big Data, Big Think",
   og: {
     title: "Loi Nguyen Portfolio",
     type: "website",
@@ -244,10 +243,10 @@ const degrees = {
       duration: "2018 - 2022",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, ML, DL etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science and Cloud Computing."
+        "⚡ Apart from this, I have done courses on Deep Learning, Data Science and Cloud Computing.",
       ],
       website_link: "https://iuh.edu.vn/",
-    }
+    },
   ],
 };
 
@@ -387,7 +386,7 @@ const certifications = {
         "htthttps://www.cloudskillsboost.google/public_profiles/f306715c-afaf-4439-95c0-c71bc41ea0ef/badges/3394492",
       alt_name: "GCP",
       color_code: "#4285F499",
-    }
+    },
   ],
 };
 
@@ -396,7 +395,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I have a background in Big Data, scraper technology, and Data Engineering. My professional journey has also exposed me to roles related to data architecture. With expertise in the fields of Big Data, scraper technology, Data Engineering, and Architecture, I'm enthusiastic about taking on new challenges and contributing my knowledge to projects that involve these domains. My passion for organizing events has led me to actively participate in various open-source communities, where I represent and contribute to the community's growth.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -423,7 +422,7 @@ const experience = {
           description:
             "⚡ Design, implement crawler to capture data from social network. Transform data to generate report. ETL data from crawler to Postgres and Elasticsearch. Implement Data API. Integreate ML/DL model to production",
           color: "#9b1578",
-        }
+        },
       ],
     },
     {
@@ -554,8 +553,7 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle:
-      "Ton That Thuyet, Ward 15, District 4, Ho Chi Minh City",
+    subtitle: "Ton That Thuyet, Ward 15, District 4, Ho Chi Minh City",
     avatar_image_path: "address_image.svg",
     location_map_link: "https://goo.gl/maps/8UkWCBT88QxHDAyy6",
   },

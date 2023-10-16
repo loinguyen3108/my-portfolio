@@ -1,1 +1,503 @@
-{"data":[{"id":"PR_kwDOJPn1ns5P1Bdo","title":"Feature/Implement advance testing","url":"https://github.com/loinguyen3108/become-dbt/pull/12","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4","url":"https://github.com/loinguyen3108","login":"loinguyen3108"},"createdAt":"2023-05-05T03:42:52Z","number":12,"changedFiles":11,"additions":36,"deletions":51,"baseRepository":{"name":"become-dbt","url":"https://github.com/loinguyen3108/become-dbt","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4","login":"loinguyen3108","url":"https://github.com/loinguyen3108"}}},{"id":"PR_kwDOJPn1ns5P05mv","title":"feature/Refactor SQL for modularity","url":"https://github.com/loinguyen3108/become-dbt/pull/11","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4","url":"https://github.com/loinguyen3108","login":"loinguyen3108"},"createdAt":"2023-05-05T02:39:19Z","number":11,"changedFiles":21,"additions":191,"deletions":37,"baseRepository":{"name":"become-dbt","url":"https://github.com/loinguyen3108/become-dbt","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4","login":"loinguyen3108","url":"https://github.com/loinguyen3108"}}},{"id":"PR_kwDOJPn1ns5PvB62","title":"Add new customer_order model","url":"https://github.com/loinguyen3108/become-dbt/pull/10","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4","url":"https://github.com/loinguyen3108","login":"loinguyen3108"},"createdAt":"2023-05-04T03:45:24Z","number":10,"changedFiles":4,"additions":111,"deletions":0,"baseRepository":{"name":"become-dbt","url":"https://github.com/loinguyen3108/become-dbt","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4","login":"loinguyen3108","url":"https://github.com/loinguyen3108"}}},{"id":"PR_kwDOJPn1ns5PcHfW","title":"Feature/Add some macro","url":"https://github.com/loinguyen3108/become-dbt/pull/9","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4","url":"https://github.com/loinguyen3108","login":"loinguyen3108"},"createdAt":"2023-04-29T13:54:01Z","number":9,"changedFiles":2,"additions":42,"deletions":0,"baseRepository":{"name":"become-dbt","url":"https://github.com/loinguyen3108/become-dbt","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4","login":"loinguyen3108","url":"https://github.com/loinguyen3108"}}},{"id":"PR_kwDOJPn1ns5Pb9IR","title":"Feature/Add new packages","url":"https://github.com/loinguyen3108/become-dbt/pull/8","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4","url":"https://github.com/loinguyen3108","login":"loinguyen3108"},"createdAt":"2023-04-29T10:32:27Z","number":8,"changedFiles":6,"additions":16,"deletions":3,"baseRepository":{"name":"become-dbt","url":"https://github.com/loinguyen3108/become-dbt","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4","login":"loinguyen3108","url":"https://github.com/loinguyen3108"}}},{"id":"PR_kwDOJPn1ns5Pb7LG","title":"Feature/Add new macro","url":"https://github.com/loinguyen3108/become-dbt/pull/7","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4","url":"https://github.com/loinguyen3108","login":"loinguyen3108"},"createdAt":"2023-04-29T10:02:12Z","number":7,"changedFiles":2,"additions":4,"deletions":1,"baseRepository":{"name":"become-dbt","url":"https://github.com/loinguyen3108/become-dbt","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4","login":"loinguyen3108","url":"https://github.com/loinguyen3108"}}},{"id":"PR_kwDOJPn1ns5PbzmS","title":"Feature/add new jinja","url":"https://github.com/loinguyen3108/become-dbt/pull/6","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4","url":"https://github.com/loinguyen3108","login":"loinguyen3108"},"createdAt":"2023-04-29T09:14:40Z","number":6,"changedFiles":1,"additions":20,"deletions":0,"baseRepository":{"name":"become-dbt","url":"https://github.com/loinguyen3108/become-dbt","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4","login":"loinguyen3108","url":"https://github.com/loinguyen3108"}}},{"id":"PR_kwDOJPn1ns5PR6kX","title":"Feature/Add new analyses and seeds","url":"https://github.com/loinguyen3108/become-dbt/pull/5","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4","url":"https://github.com/loinguyen3108","login":"loinguyen3108"},"createdAt":"2023-04-27T10:04:26Z","number":5,"changedFiles":3,"additions":23,"deletions":2,"baseRepository":{"name":"become-dbt","url":"https://github.com/loinguyen3108/become-dbt","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4","login":"loinguyen3108","url":"https://github.com/loinguyen3108"}}},{"id":"PR_kwDOJPn1ns5PRx8o","title":"Feature/Add new docs","url":"https://github.com/loinguyen3108/become-dbt/pull/4","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4","url":"https://github.com/loinguyen3108","login":"loinguyen3108"},"createdAt":"2023-04-27T09:38:56Z","number":4,"changedFiles":2,"additions":19,"deletions":0,"baseRepository":{"name":"become-dbt","url":"https://github.com/loinguyen3108/become-dbt","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4","login":"loinguyen3108","url":"https://github.com/loinguyen3108"}}},{"id":"PR_kwDOJPn1ns5PNeHf","title":"Feature/Add new test","url":"https://github.com/loinguyen3108/become-dbt/pull/3","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4","url":"https://github.com/loinguyen3108","login":"loinguyen3108"},"createdAt":"2023-04-26T15:03:02Z","number":3,"changedFiles":2,"additions":36,"deletions":0,"baseRepository":{"name":"become-dbt","url":"https://github.com/loinguyen3108/become-dbt","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4","login":"loinguyen3108","url":"https://github.com/loinguyen3108"}}},{"id":"PR_kwDOJPn1ns5PNLnz","title":"Feature/Add new resource","url":"https://github.com/loinguyen3108/become-dbt/pull/2","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4","url":"https://github.com/loinguyen3108","login":"loinguyen3108"},"createdAt":"2023-04-26T14:16:18Z","number":2,"changedFiles":5,"additions":27,"deletions":5,"baseRepository":{"name":"become-dbt","url":"https://github.com/loinguyen3108/become-dbt","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4","login":"loinguyen3108","url":"https://github.com/loinguyen3108"}}},{"id":"PR_kwDOJPn1ns5PGw8_","title":"Feature/Add customer model","url":"https://github.com/loinguyen3108/become-dbt/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4","url":"https://github.com/loinguyen3108","login":"loinguyen3108"},"createdAt":"2023-04-25T13:47:46Z","number":1,"changedFiles":12,"additions":151,"deletions":0,"baseRepository":{"name":"become-dbt","url":"https://github.com/loinguyen3108/become-dbt","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4","login":"loinguyen3108","url":"https://github.com/loinguyen3108"}}},{"id":"PR_kwDOIusjy85HKqt_","title":"Update README.md","url":"https://github.com/loinguyen3108/dvdrental-etl/pull/2","state":"CLOSED","mergedBy":null,"createdAt":"2023-01-11T15:06:06Z","number":2,"changedFiles":1,"additions":127,"deletions":2,"baseRepository":{"name":"dvdrental-etl","url":"https://github.com/loinguyen3108/dvdrental-etl","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4","login":"loinguyen3108","url":"https://github.com/loinguyen3108"}}},{"id":"PR_kwDOIusjy85HKYt7","title":"Feature/implement transform","url":"https://github.com/loinguyen3108/dvdrental-etl/pull/1","state":"MERGED","mergedBy":{"avatarUrl":"https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4","url":"https://github.com/loinguyen3108","login":"loinguyen3108"},"createdAt":"2023-01-11T14:17:24Z","number":1,"changedFiles":35,"additions":487,"deletions":359,"baseRepository":{"name":"dvdrental-etl","url":"https://github.com/loinguyen3108/dvdrental-etl","owner":{"avatarUrl":"https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4","login":"loinguyen3108","url":"https://github.com/loinguyen3108"}}}],"open":0,"closed":1,"merged":13}
+{
+  "closed": 1,
+  "data": [
+    {
+      "id": "PR_kwDOKdQsZM5cy9KG",
+      "title": "Feature/add image to html template",
+      "url": "https://github.com/loinguyen3108/notion-english-vocabulary-integration/pull/7",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+        "url": "https://github.com/loinguyen3108",
+        "login": "loinguyen3108"
+      },
+      "createdAt": "2023-10-14T09:53:51Z",
+      "number": 7,
+      "changedFiles": 4,
+      "additions": 36,
+      "deletions": 17,
+      "baseRepository": {
+        "name": "notion-english-vocabulary-integration",
+        "url": "https://github.com/loinguyen3108/notion-english-vocabulary-integration",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+          "login": "loinguyen3108",
+          "url": "https://github.com/loinguyen3108"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKdQsZM5cs4Sh",
+      "title": "Update README.md",
+      "url": "https://github.com/loinguyen3108/notion-english-vocabulary-integration/pull/5",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+        "url": "https://github.com/loinguyen3108",
+        "login": "loinguyen3108"
+      },
+      "createdAt": "2023-10-13T04:55:12Z",
+      "number": 5,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "notion-english-vocabulary-integration",
+        "url": "https://github.com/loinguyen3108/notion-english-vocabulary-integration",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+          "login": "loinguyen3108",
+          "url": "https://github.com/loinguyen3108"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKdQsZM5cs4IZ",
+      "title": "Update cronjob-reset-remind-times.yml",
+      "url": "https://github.com/loinguyen3108/notion-english-vocabulary-integration/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+        "url": "https://github.com/loinguyen3108",
+        "login": "loinguyen3108"
+      },
+      "createdAt": "2023-10-13T04:54:17Z",
+      "number": 4,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "notion-english-vocabulary-integration",
+        "url": "https://github.com/loinguyen3108/notion-english-vocabulary-integration",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+          "login": "loinguyen3108",
+          "url": "https://github.com/loinguyen3108"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKdQsZM5cs4Do",
+      "title": "Update cronjob-reminder-vocabulary.yml",
+      "url": "https://github.com/loinguyen3108/notion-english-vocabulary-integration/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+        "url": "https://github.com/loinguyen3108",
+        "login": "loinguyen3108"
+      },
+      "createdAt": "2023-10-13T04:53:50Z",
+      "number": 3,
+      "changedFiles": 1,
+      "additions": 1,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "notion-english-vocabulary-integration",
+        "url": "https://github.com/loinguyen3108/notion-english-vocabulary-integration",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+          "login": "loinguyen3108",
+          "url": "https://github.com/loinguyen3108"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKdQsZM5cs3oO",
+      "title": "Feature/Refactor to send multiple emails",
+      "url": "https://github.com/loinguyen3108/notion-english-vocabulary-integration/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+        "url": "https://github.com/loinguyen3108",
+        "login": "loinguyen3108"
+      },
+      "createdAt": "2023-10-13T04:51:19Z",
+      "number": 2,
+      "changedFiles": 15,
+      "additions": 107,
+      "deletions": 132,
+      "baseRepository": {
+        "name": "notion-english-vocabulary-integration",
+        "url": "https://github.com/loinguyen3108/notion-english-vocabulary-integration",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+          "login": "loinguyen3108",
+          "url": "https://github.com/loinguyen3108"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKdQsZM5co4WH",
+      "title": "Feature/Implement logic reset remind time and add cli to run manage file",
+      "url": "https://github.com/loinguyen3108/notion-english-vocabulary-integration/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+        "url": "https://github.com/loinguyen3108",
+        "login": "loinguyen3108"
+      },
+      "createdAt": "2023-10-12T14:05:15Z",
+      "number": 1,
+      "changedFiles": 7,
+      "additions": 97,
+      "deletions": 8,
+      "baseRepository": {
+        "name": "notion-english-vocabulary-integration",
+        "url": "https://github.com/loinguyen3108/notion-english-vocabulary-integration",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+          "login": "loinguyen3108",
+          "url": "https://github.com/loinguyen3108"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJPn1ns5P1Bdo",
+      "title": "Feature/Implement advance testing",
+      "url": "https://github.com/loinguyen3108/become-dbt/pull/12",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+        "url": "https://github.com/loinguyen3108",
+        "login": "loinguyen3108"
+      },
+      "createdAt": "2023-05-05T03:42:52Z",
+      "number": 12,
+      "changedFiles": 11,
+      "additions": 36,
+      "deletions": 51,
+      "baseRepository": {
+        "name": "become-dbt",
+        "url": "https://github.com/loinguyen3108/become-dbt",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+          "login": "loinguyen3108",
+          "url": "https://github.com/loinguyen3108"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJPn1ns5P05mv",
+      "title": "feature/Refactor SQL for modularity",
+      "url": "https://github.com/loinguyen3108/become-dbt/pull/11",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+        "url": "https://github.com/loinguyen3108",
+        "login": "loinguyen3108"
+      },
+      "createdAt": "2023-05-05T02:39:19Z",
+      "number": 11,
+      "changedFiles": 21,
+      "additions": 191,
+      "deletions": 37,
+      "baseRepository": {
+        "name": "become-dbt",
+        "url": "https://github.com/loinguyen3108/become-dbt",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+          "login": "loinguyen3108",
+          "url": "https://github.com/loinguyen3108"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJPn1ns5PvB62",
+      "title": "Add new customer_order model",
+      "url": "https://github.com/loinguyen3108/become-dbt/pull/10",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+        "url": "https://github.com/loinguyen3108",
+        "login": "loinguyen3108"
+      },
+      "createdAt": "2023-05-04T03:45:24Z",
+      "number": 10,
+      "changedFiles": 4,
+      "additions": 111,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "become-dbt",
+        "url": "https://github.com/loinguyen3108/become-dbt",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+          "login": "loinguyen3108",
+          "url": "https://github.com/loinguyen3108"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJPn1ns5PcHfW",
+      "title": "Feature/Add some macro",
+      "url": "https://github.com/loinguyen3108/become-dbt/pull/9",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+        "url": "https://github.com/loinguyen3108",
+        "login": "loinguyen3108"
+      },
+      "createdAt": "2023-04-29T13:54:01Z",
+      "number": 9,
+      "changedFiles": 2,
+      "additions": 42,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "become-dbt",
+        "url": "https://github.com/loinguyen3108/become-dbt",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+          "login": "loinguyen3108",
+          "url": "https://github.com/loinguyen3108"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJPn1ns5Pb9IR",
+      "title": "Feature/Add new packages",
+      "url": "https://github.com/loinguyen3108/become-dbt/pull/8",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+        "url": "https://github.com/loinguyen3108",
+        "login": "loinguyen3108"
+      },
+      "createdAt": "2023-04-29T10:32:27Z",
+      "number": 8,
+      "changedFiles": 6,
+      "additions": 16,
+      "deletions": 3,
+      "baseRepository": {
+        "name": "become-dbt",
+        "url": "https://github.com/loinguyen3108/become-dbt",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+          "login": "loinguyen3108",
+          "url": "https://github.com/loinguyen3108"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJPn1ns5Pb7LG",
+      "title": "Feature/Add new macro",
+      "url": "https://github.com/loinguyen3108/become-dbt/pull/7",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+        "url": "https://github.com/loinguyen3108",
+        "login": "loinguyen3108"
+      },
+      "createdAt": "2023-04-29T10:02:12Z",
+      "number": 7,
+      "changedFiles": 2,
+      "additions": 4,
+      "deletions": 1,
+      "baseRepository": {
+        "name": "become-dbt",
+        "url": "https://github.com/loinguyen3108/become-dbt",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+          "login": "loinguyen3108",
+          "url": "https://github.com/loinguyen3108"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJPn1ns5PbzmS",
+      "title": "Feature/add new jinja",
+      "url": "https://github.com/loinguyen3108/become-dbt/pull/6",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+        "url": "https://github.com/loinguyen3108",
+        "login": "loinguyen3108"
+      },
+      "createdAt": "2023-04-29T09:14:40Z",
+      "number": 6,
+      "changedFiles": 1,
+      "additions": 20,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "become-dbt",
+        "url": "https://github.com/loinguyen3108/become-dbt",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+          "login": "loinguyen3108",
+          "url": "https://github.com/loinguyen3108"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJPn1ns5PR6kX",
+      "title": "Feature/Add new analyses and seeds",
+      "url": "https://github.com/loinguyen3108/become-dbt/pull/5",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+        "url": "https://github.com/loinguyen3108",
+        "login": "loinguyen3108"
+      },
+      "createdAt": "2023-04-27T10:04:26Z",
+      "number": 5,
+      "changedFiles": 3,
+      "additions": 23,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "become-dbt",
+        "url": "https://github.com/loinguyen3108/become-dbt",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+          "login": "loinguyen3108",
+          "url": "https://github.com/loinguyen3108"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJPn1ns5PRx8o",
+      "title": "Feature/Add new docs",
+      "url": "https://github.com/loinguyen3108/become-dbt/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+        "url": "https://github.com/loinguyen3108",
+        "login": "loinguyen3108"
+      },
+      "createdAt": "2023-04-27T09:38:56Z",
+      "number": 4,
+      "changedFiles": 2,
+      "additions": 19,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "become-dbt",
+        "url": "https://github.com/loinguyen3108/become-dbt",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+          "login": "loinguyen3108",
+          "url": "https://github.com/loinguyen3108"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJPn1ns5PNeHf",
+      "title": "Feature/Add new test",
+      "url": "https://github.com/loinguyen3108/become-dbt/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+        "url": "https://github.com/loinguyen3108",
+        "login": "loinguyen3108"
+      },
+      "createdAt": "2023-04-26T15:03:02Z",
+      "number": 3,
+      "changedFiles": 2,
+      "additions": 36,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "become-dbt",
+        "url": "https://github.com/loinguyen3108/become-dbt",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+          "login": "loinguyen3108",
+          "url": "https://github.com/loinguyen3108"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJPn1ns5PNLnz",
+      "title": "Feature/Add new resource",
+      "url": "https://github.com/loinguyen3108/become-dbt/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+        "url": "https://github.com/loinguyen3108",
+        "login": "loinguyen3108"
+      },
+      "createdAt": "2023-04-26T14:16:18Z",
+      "number": 2,
+      "changedFiles": 5,
+      "additions": 27,
+      "deletions": 5,
+      "baseRepository": {
+        "name": "become-dbt",
+        "url": "https://github.com/loinguyen3108/become-dbt",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+          "login": "loinguyen3108",
+          "url": "https://github.com/loinguyen3108"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJPn1ns5PGw8_",
+      "title": "Feature/Add customer model",
+      "url": "https://github.com/loinguyen3108/become-dbt/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+        "url": "https://github.com/loinguyen3108",
+        "login": "loinguyen3108"
+      },
+      "createdAt": "2023-04-25T13:47:46Z",
+      "number": 1,
+      "changedFiles": 12,
+      "additions": 151,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "become-dbt",
+        "url": "https://github.com/loinguyen3108/become-dbt",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+          "login": "loinguyen3108",
+          "url": "https://github.com/loinguyen3108"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIusjy85HKqt_",
+      "title": "Update README.md",
+      "url": "https://github.com/loinguyen3108/dvdrental-etl/pull/2",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2023-01-11T15:06:06Z",
+      "number": 2,
+      "changedFiles": 1,
+      "additions": 127,
+      "deletions": 2,
+      "baseRepository": {
+        "name": "dvdrental-etl",
+        "url": "https://github.com/loinguyen3108/dvdrental-etl",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+          "login": "loinguyen3108",
+          "url": "https://github.com/loinguyen3108"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOIusjy85HKYt7",
+      "title": "Feature/implement transform",
+      "url": "https://github.com/loinguyen3108/dvdrental-etl/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+        "url": "https://github.com/loinguyen3108",
+        "login": "loinguyen3108"
+      },
+      "createdAt": "2023-01-11T14:17:24Z",
+      "number": 1,
+      "changedFiles": 35,
+      "additions": 487,
+      "deletions": 359,
+      "baseRepository": {
+        "name": "dvdrental-etl",
+        "url": "https://github.com/loinguyen3108/dvdrental-etl",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/44920436?u=9e6b9194dd1e0f1e31e79cbca05bf4e3620b944c&v=4",
+          "login": "loinguyen3108",
+          "url": "https://github.com/loinguyen3108"
+        }
+      }
+    }
+  ],
+  "merged": 19,
+  "open": 0
+}

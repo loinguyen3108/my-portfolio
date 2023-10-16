@@ -1,72 +1,112 @@
 {
-    "data":[
+  "data": [
+    {
+      "id": "599148282",
+      "name": "Wide World Importers Spark",
+      "createdAt": "2023-02-08T14:55:19Z",
+      "url": "https://github.com/loinguyen3108/Wide-World-Importers-Spark",
+      "description": "🔥 The project use WWI data use PySpark to ETL from source system to Hive. Then, we will analyze with Superset.",
+      "isFork": false,
+      "languages": [
         {
-            "id": "599148282",
-            "name": "Wide World Importers Spark",
-            "createdAt": "2023-02-08T14:55:19Z",
-            "url": "https://github.com/loinguyen3108/Wide-World-Importers-Spark",
-            "description": "🔥 The project use WWI data use PySpark to ETL from source system to Hive. Then, we will analyze with Superset.",
-            "isFork": false,
-            "languages": [
-              {
-                "name": "Python",
-                "iconifyClass": "logos:python"
-              },
-              {
-                "name": "Shell",
-                "iconifyClass": "tabler:brand-powershell"
-              }
-            ]
+          "name": "Python",
+          "iconifyClass": "logos:python"
         },
         {
-          "id": "585835467",
-          "name": "DVD Rental ETL",
-          "createdAt": "2023-01-06T07:52:09Z",
-          "url": "https://github.com/loinguyen3108/dvdrental-etl",
-          "description": "🔥 This is example project about ETL with spark, hadoop, hive.",
-          "isFork": false,
-          "languages": [
-            {
-              "name": "Python",
-              "iconifyClass": "logos:python"
-            },
-            {
-              "name": "Shell",
-              "iconifyClass": "tabler:brand-powershell"
-            }
-          ]
-        },
-        {
-          "id": "588438679",
-          "name": "Fifa ETL & Analyze",
-          "createdAt": "2023-01-13T05:42:28Z",
-          "url": "https://github.com/loinguyen3108/fifa-etl-analyze",
-          "description": "🔥 This is project ETL data from csv files to hive. Then, this data will be analyze with superset",
-          "isFork": false,
-          "languages": [
-            {
-              "name": "Python",
-              "iconifyClass": "logos:python"
-            },
-            {
-              "name": "Shell",
-              "iconifyClass": "tabler:brand-powershell"
-            }
-          ]
-        },
-        {
-          "id": "587977431",
-          "name": "Bigdata Stack",
-          "createdAt": "2023-01-12T02:56:37Z",
-          "url": "https://github.com/loinguyen3108/bigdata-stack",
-          "description": "Big Data Stack Docker.",
-          "isFork": false,
-          "languages": [
-            {
-              "name": "Shell",
-              "iconifyClass": "tabler:brand-powershell"
-            }
-          ]
+          "name": "Shell",
+          "iconifyClass": "tabler:brand-powershell"
         }
-    ]
+      ]
+    },
+    {
+      "id": "636934316",
+      "name": "Wide World Importers DBT",
+      "createdAt": "2023-05-06T02:42:30Z",
+      "url": "https://github.com/loinguyen3108/Wide-World-Importers-DBT",
+      "description": "🔥 The project uses dbt to transform wwi data.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "SQL",
+          "iconifyClass": "tabler:sql"
+        },
+        {
+          "name": "PostgreSQL",
+          "iconifyClass": "logos:postgresql"
+        }
+      ]
+    },
+    {
+      "id": "585835467",
+      "name": "DVD Rental ETL",
+      "createdAt": "2023-01-06T07:52:09Z",
+      "url": "https://github.com/loinguyen3108/dvdrental-etl",
+      "description": "🔥 This is example project about ETL with spark, hadoop, hive.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos:python"
+        },
+        {
+          "name": "Shell",
+          "iconifyClass": "tabler:brand-powershell"
+        }
+      ]
+    },
+    {
+      "id": "588438679",
+      "name": "Fifa ETL & Analyze",
+      "createdAt": "2023-01-13T05:42:28Z",
+      "url": "https://github.com/loinguyen3108/fifa-etl-analyze",
+      "description": "🔥 This is project ETL data from csv files to hive. Then, this data will be analyze with superset",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos:python"
+        },
+        {
+          "name": "Shell",
+          "iconifyClass": "tabler:brand-powershell"
+        }
+      ]
+    },
+    {
+      "id": "587977431",
+      "name": "Bigdata Stack",
+      "createdAt": "2023-01-12T02:56:37Z",
+      "url": "https://github.com/loinguyen3108/bigdata-stack",
+      "description": "🔥 Big Data Stack Docker.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Shell",
+          "iconifyClass": "tabler:brand-powershell"
+        }
+      ]
+    },
+    {
+      "id": "695441404",
+      "name": "k8s-monitoring",
+      "createdAt": "2023-09-23T07:32:22Z",
+      "url": "https://github.com/loinguyen3108/k8s-monitoring",
+      "description": "🔥 Setup scrape log from k8s and search log in graylog",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Kubernetes",
+          "iconifyClass": "skill-icons:kubernetes"
+        },
+        {
+          "name": "Fluentd",
+          "iconifyClass": "simple-icons:fluentd"
+        },
+        {
+          "name": "Graylog",
+          "iconifyClass": "logos:graylog"
+        }
+      ]
+    }
+  ]
 }
